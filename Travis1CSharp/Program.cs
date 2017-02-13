@@ -8,8 +8,7 @@ namespace Travis1CSharp
 {
     public class Program
     {
-        public static void Main(string[] args)
-        {
+        public static void Main(string[] args)  {
         }
 
         public static bool True()
